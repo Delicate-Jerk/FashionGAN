@@ -7,7 +7,7 @@ The usage flow is as follows:
 with pattern.
 • Next, a pattern attribute is selected to modify the type of pattern that is desired on the dress. Currently,
 it has two options, floral pattern and stripes pattern.
-• The model generates an output image with the features that were provided by user as input.
+• The model generates an output image with the features that were provided by user as input
 • Select an image from the returned results to start again
 • The model search results are only illustrative, so a “continue modification” option is only available when
 a product image is selected.
